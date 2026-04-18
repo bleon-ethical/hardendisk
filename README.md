@@ -36,20 +36,17 @@ Si prefieres ejecutarlo desde el código fuente, asegúrate de tener Python 3.10
 
 Clonar el repositorio:
 
-´´´bash
 git clone [https://github.com/bleonethical/hardendisk.git](https://github.com/bleonethical/hardendisk.git)
 cd hardendisk
-´´´
 
 Instalar dependencias necesarias:
-´´´bash
+
 pip install customtkinter psutil pillow
-´´´
+
 
 Ejecutar la aplicación:
-´´´bash
+
 python hardendisk.py
-´´´
 
 ## Tecnologías Utilizadas
 
