@@ -1,4 +1,4 @@
-# HardenDisk v2.0
+# HardenDisk v1.0.1
 
 Diagnóstico, Limpieza y Seguridad del Sistema para Windows
 
